@@ -1,5 +1,5 @@
 # Pemrograman Web Server Side
-Repositori ini memuat arsip kode dari mata kuliah Pemrograman Web Server Side di semester 4. Yang mana di dalamnya terdapat bagian latihan, tugas, UTS dan UAS yang telah saya kerjakan.
+This repository contains code archives from the Web Server Side Programming course in semester 4. In which there is a section on exercises, assignments, UTS and UAS that I have done.
 
 ## Author
 [@Ika Nurfitriani](http://github.com/ikanurfitriani)
